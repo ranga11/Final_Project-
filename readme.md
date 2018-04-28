@@ -22,7 +22,7 @@ Forecasted stock price for different types of stock tickers and weeks to be fore
 Deployed web application using flask in python where user inputs company ticker and gets relevant forecast information along with accuracy metrics and interactive graphical visualisation using plotly.
 
 ## EC2 Instance of the app
-ec2-54-86-196-157.compute-1.amazonaws.com
+http://ec2-54-234-250-123.compute-1.amazonaws.com/
 
 References:
 https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
